@@ -67,7 +67,7 @@
     </div>
     <div id="loading-cover" style="display:none;">
         <div id="unity-loading-bar">
-            <div id="unity-logo"><img src="https://cdn.jsdelivr.net/gh/classrooms-1/ohanganamaranes@main/logo.png"/></div>
+            <div id="unity-logo"><img src="https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/f2bafcc2-17fd-4b96-ba10-ec12720d5030__1_-removebg-preview.png"/></div>
             <div id="unity-progress-bar-empty" style="display: none;">
                 <div id="unity-progress-bar-full"></div>
             </div>
@@ -151,7 +151,7 @@
             container.className = "unity-mobile";
         }
 
-        loadingCover.style.background = "url('https://cdn.jsdelivr.net/gh/classrooms-1/ohanganamaranes@main/background.png') center / cover";
+        loadingCover.style.background = "url('https://cdn.jsdelivr.net/gh/zx9qv8n4rpl7t6k2m1y/asset@main/Screenshot%202026-03-17%203.01.04%20PM.png') center / cover";
         loadingCover.style.display = "";
 
         document.addEventListener('contextmenu', event => event.preventDefault());
